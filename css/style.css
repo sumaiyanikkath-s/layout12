@@ -1,0 +1,304 @@
+.header .wrapper
+{
+width:80%;
+margin:auto;
+}
+.banner .wrapper
+{
+width:80%;
+margin:auto;
+}
+.start .wrapper
+{
+width:80%;
+margin:auto;
+}
+.services .wrapper
+{
+width:80%;
+margin:auto;
+}
+.portfolio .wrapper
+{
+width:100%;
+margin:auto;
+}
+.startA .wrapper
+{
+width:80%;
+margin:auto;
+}
+.contact .wrapper
+{
+width:80%;
+margin:auto;
+}
+.copyright .wrapper
+{
+width:80%;
+margin:auto;
+}
+.header
+{
+	background-color:MediumPurple;
+	height:94px;
+}
+.header-fc
+{ 
+	
+	display:flex;
+	justify-content:space-between;
+}
+.header .header-fc .header-logo
+{
+	background-color:plum;
+	width:10%;
+	height:58px;
+	align-items:left;
+	margin-top:15px;
+}
+.header .header-fc .header-navi
+{
+	background-color:plum;
+	width:40%;
+	height:58px;
+	align-items:center;
+	margin-top:15px;
+}
+.banner
+{
+	background-color:darkturquoise;
+	height:554px;
+}
+.banner .banner-fc
+{
+	display:flex;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+	text-align:center;
+}
+.banner .banner-fc .text
+{
+	width:100%;
+	text-align:center;
+	margin-top:100px;
+}
+.banner .banner-fc .box
+{
+	background-color:greenyellow;
+	height:62px;
+	width:14%;
+	text-align:center;
+	margin-top:120px;
+}
+.start
+{
+	background-color:plum;
+	height:477px;
+}
+.start .start-fc
+{
+	flex-wrap:wrap;
+	display:flex;
+	justify-content:center;
+	flex-direction:column;
+	align-items:center;
+}
+.start .start-fc .texta
+{
+	margin-top:140px;
+}
+.start .start-fc .boxa
+{
+	height:40px;
+	width:150px;
+	margin-top:60px;
+	background-color:blue;
+}
+.services
+{
+	height:549px;
+	background-color:blue;
+}
+.services .services-fc
+{
+	flex-wrap:wrap;
+	display:flex;
+	justify-content:space-evenly;
+	flex-direction:row;
+	text-align:center;
+}
+.services .services-fc .text
+{
+	width:100%;
+	align-items:center;
+	margin-top:100px;
+}
+.services .services-fc .boxa
+{
+	height:50px;
+	width:20%;
+	background-color:white;
+	margin-top:150px;
+}
+.services .services-fc .boxb
+{
+	height:50px;
+	width:20%;
+	background-color:white;
+	margin-top:150px;
+}
+.services .services-fc .boxc
+{
+	height:50px;
+	width:20%;
+	margin-top:150px;
+	background-color:white;
+}
+.services .services-fc .boxd
+{
+	height:50px;
+	width:20%;
+	background-color:white;
+	margin-top:150px;
+}
+.portfolio
+{
+	background-color:MediumPurple;
+	height:540px;
+}
+.portfolio .portfolio-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+.portfolio .portfolio-fc .boxa
+{
+	width:34%;
+	height:270px;
+	background-color:plum;
+}
+.portfolio .portfolio-fc .boxb
+{
+	background-color:lightblue;
+	width:33%;
+	height:270px;
+	text-align:center;
+}
+.portfolio .portfolio-fc .boxc
+{
+	background-color:plum;
+	width:33%;
+	height:270px;
+}
+.portfolio .portfolio-fc .boxd
+{
+	width:34%;
+	height:270px;
+	background-color:lightblue;
+}
+.portfolio .portfolio-fc .boxe
+{
+	background-color:plum;
+	width:33%;
+	height:270px;
+}
+.portfolio .portfolio-fc .boxf
+{
+	background-color:lightblue;
+	width:33%;
+	height:270px;
+}
+.starta
+{
+	background-color:blue;
+	height:380px;
+}
+.starta .starta-fc
+{
+	flex-wrap:wrap;
+	display:flex;
+	justify-content:center;
+	flex-direction:column;
+	align-items:center;
+}
+.starta .starta-fc .text
+{
+	margin-top:150px;
+}
+.starta .starta-fc .boxa
+{
+	height:40px;
+	width:150px;
+	margin-top:60px;
+	background-color:plum;
+}
+.contact
+{
+	background-color:plum;
+	height:1043px;
+}
+.contact .contact-fc
+{
+	flex-wrap:wrap;
+	display:flex;
+	justify-content:center;
+	flex-direction:column;
+	align-items:center;
+	text-align:center;
+}
+.contact .contact-fc .text
+{
+	width:100%;
+	margin-top:100px;
+	align-items:center;
+}
+.contact .contact-fc .boxa
+{
+	background-color:white;
+	width:60%;
+	height:60px;
+	margin-top:100px;
+}
+.contact .contact-fc .boxb
+{
+	background-color:blue;
+	width:60%;
+	height:60px;
+	margin-top:15px;
+}
+.contact .contact-fc .boxc
+{
+	background-color:white;
+	width:60%;
+	height:60px;
+	margin-top:15px;
+}
+.contact .contact-fc .boxd
+{
+	background-color:blue;
+	width:60%;
+	height:164px;
+	margin-top:15px;
+}
+.contact .contact-fc .boxe
+{
+	background-color:white;
+	width:60%;
+	height:68px;
+	margin-top:15px;
+}
+.contact .contact-fc .boxf
+{
+	background-color:blue;
+	width:20%;
+	height:66px;
+	margin-top:15px;
+}
+.copyright
+{
+	background-color:lightblue;
+	height:186px;
+}
